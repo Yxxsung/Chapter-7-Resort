@@ -17,9 +17,6 @@ dt {color: #002171; font-weight:bold;}
 
 footer {font-size: .70em; text-align: center; font-size: small; padding: 1em; background-color: white;}
 
-/*supposed to add a class called resort and set it to medium blue text color #1976D2 with 1.2em font size
-could not for the life of me figure this out, ask in class*/
-
 .resort {color: #1976D2; font-size: 1.2em;}
 
 #wrapper {margin-right: auto; margin-left: auto; background-color: linear-gradient(to right, white, blue); min-width: 960px; max-width:2048px;}
@@ -53,7 +50,7 @@ nav a:hover {color: #A52A2A; text-decoration-color:#90C7E3;}
 
 /*nav ul{list-style-type:none; padding-left: 1em;}*/
 
-nav{position:fixed;}
+/*nav{position:fixed;}*/
 
 main{padding-top: 0; padding-bottom: 0; padding-left: 1em; padding-right: 1em;}
 
