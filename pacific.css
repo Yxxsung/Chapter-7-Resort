@@ -1,0 +1,62 @@
+
+
+
+body {color: #666666; background-color: #EAEAEA; font-family: veranda;}
+
+header {background-color: #002171; color: #FFFFFF; font-family: Georgia;}
+
+header {style{line-height: 120px; #figure {border: 3px solid #000000; font-family: papyrus, fantasy; padding: 6px; text-align: center; width: 500px; padding-top:.5em;}}}
+
+h1 {line-height: 200%; font-size: 3em; letter-spacing: 0.25em;}
+
+nav {text-decoration: none; font-weight: bold; padding-top:0em; padding-right: 0em; padding-bottom: 0em;
+float: left; font-size: 1.2em;}
+
+h2 {color: #1976D2; font-family: Georgia;}
+
+dt {color: #002171; font-weight:bold;}
+
+footer {font-size: .70em; text-align: center; font-size: small; padding: 1em; background-color: white; margin-left: 170px;}
+
+/*supposed to add a class called resort and set it to medium blue text color #1976D2 with 1.2em font size
+could not for the life of me figure this out, ask in class*/
+
+.resort {color: #1976D2; font-size: 1.2em;}
+
+#wrapper {width: 80%; margin-right: auto; margin-left: auto; background-color: linear-gradient(to right, white, blue); min-width: 960px; max-width:2048px; box-shadow:black;}
+
+#grad{
+background-image: linear-gradient(to right, white, blue);
+}
+
+meta charset{color:#90C7E3;}
+
+header {background-image:"sunset.jpg"; align-content:"right"; height: 72px;}
+
+h3 {font: Georgia;}
+
+main {padding-left: 2em; padding-right:2em; display:block;}
+
+homehero-element{height: 300px; background-image:"coast.jpg"; background-size: 100%; margin-left: 170px;}
+
+yurthero-element{height:300px; background-image:"yurt.jpg"; background-size: 100%; margin-left: 170px;}
+
+trailhero-element{height:300px; background-image:"trail.jpg"; background-size: 100%; margin-left: 170px;}
+
+nav a {text-decoration:none;}
+
+* {box-sizing: border-box;}
+
+nav a:link {color:#5C7FA3; text-decoration-color:white;}
+
+nav a:visited {color:#344873; text-decoration-color:white;}
+
+nav a:hover {color: #A52A2A; text-decoration-color:#90C7E3;}
+
+nav ul{list-style-type:none; padding-left: 1em;}
+
+nav{position:fixed;}
+
+main{background-color: white; margin-left: 170px; overflow:auto;}
+
+section{float:left; width:33%; padding-left: 2em; padding-right:2em;}
