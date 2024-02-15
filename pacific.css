@@ -52,7 +52,7 @@ nav a:visited {color:#344873; text-decoration-color:white;}
 
 nav a:hover {color: #A52A2A; text-decoration-color:#90C7E3;}
 
-nav ul{list-style-type:none; padding-left: 1em;}
+/*nav ul{list-style-type:none; padding-left: 1em;}*/
 
 nav{position:fixed;}
 
