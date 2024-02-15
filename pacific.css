@@ -50,7 +50,7 @@ nav a:hover {color: #A52A2A; text-decoration-color:#90C7E3;}
 
 /*nav ul{list-style-type:none; padding-left: 1em;}*/
 
-nav{position:fixed;}
+nav{position:fixed; padding-bottom: 3em;}
 
 main{padding-top: 0; padding-bottom: 0; padding-left: 1em; padding-right: 1em;}
 
