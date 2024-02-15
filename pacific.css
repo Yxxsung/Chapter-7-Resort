@@ -1,7 +1,7 @@
 
 
 
-body {color: #666666; background-color: #EAEAEA; font-family: veranda;}
+body {color: #666666; background-color: #90C7E3; font-family: veranda; margin: 0;}
 
 header {background-color: #002171; color: #FFFFFF; font-family: Georgia;}
 
@@ -23,15 +23,14 @@ could not for the life of me figure this out, ask in class*/
 
 .resort {color: #1976D2; font-size: 1.2em;}
 
-#wrapper {width: 80%; margin-right: auto; margin-left: auto; background-color: linear-gradient(to right, white, blue); min-width: 960px; max-width:2048px; box-shadow:black;}
+#wrapper {margin-right: auto; margin-left: auto; background-color: linear-gradient(to right, white, blue); min-width: 960px; max-width:2048px;}
 
 #grad{
-background-image: linear-gradient(to right, white, blue);
-}
+background-image: linear-gradient(to right, white, blue);}
 
 meta charset{color:#90C7E3;}
 
-header {background-image:"sunset.jpg"; align-content:"right"; height: 72px;}
+header {background-image:"sunset.jpg"; align-content:"right"; padding: 1em;}
 
 h3 {font: Georgia;}
 
