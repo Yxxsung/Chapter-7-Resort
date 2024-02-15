@@ -16,7 +16,7 @@ h2 {color: #1976D2; font-family: Georgia;}
 
 dt {color: #002171; font-weight:bold;}
 
-footer {font-size: .70em; text-align: center; font-size: small; padding: 1em; background-color: white; margin-left: 170px;}
+footer {font-size: .70em; text-align: center; font-size: small; padding: 1em; background-color: white;}
 
 /*supposed to add a class called resort and set it to medium blue text color #1976D2 with 1.2em font size
 could not for the life of me figure this out, ask in class*/
@@ -36,11 +36,11 @@ h3 {font: Georgia;}
 
 main {padding-left: 2em; padding-right:2em; display:block;}
 
-homehero-element{height: 300px; background-image:"coast.jpg"; background-size: 100%; margin-left: 170px;}
+homehero-element{height: 300px; background-image:"coast.jpg"; background-size: 200% 100%;}
 
-yurthero-element{height:300px; background-image:"yurt.jpg"; background-size: 100%; margin-left: 170px;}
+yurthero-element{height:300px; background-image:"yurt.jpg"; background-size: 200% 100%;}
 
-trailhero-element{height:300px; background-image:"trail.jpg"; background-size: 100%; margin-left: 170px;}
+trailhero-element{height:300px; background-image:"trail.jpg"; background-size: 200% 100%;}
 
 nav a {text-decoration:none;}
 
@@ -56,6 +56,12 @@ nav ul{list-style-type:none; padding-left: 1em;}
 
 nav{position:fixed;}
 
-main{background-color: white; margin-left: 170px; overflow:auto;}
+main{padding-top: 0; padding-bottom: 0; padding-left: 1em; padding-right: 1em;}
 
-section{float:left; width:33%; padding-left: 2em; padding-right:2em;}
+section{padding-left: 2em; padding-right:2em; padding-left:.5em; padding-right: .5em;}
+
+nav li{padding-top: 0.5em; padding-bottom: 0.5em; padding-left:1em; padding-right: 1em; width: 100%; border-bottom: 1px;}
+
+mobile-id{display: inline;}
+
+desktop-id{display:none;}
